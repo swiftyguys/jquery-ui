@@ -5,5 +5,6 @@ steal(
 	//'../../jqueryui/themes/base/jquery.ui.all'
 	//'../../jqueryui/themes/base/jquery.ui.base',
 	'../../jqueryui/themes/base/jquery.ui.core',
-	'../../jqueryui/themes/base/jquery.ui.theme'
+	'../../jqueryui/themes/base/jquery.ui.theme',
+	'../../jqueryui/uijmvc/fix_size'
 );
