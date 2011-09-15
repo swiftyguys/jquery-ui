@@ -1,0 +1,10 @@
+steal(
+	'//jqueryui/ui/jquery.ui.core.js'
+)
+.css(
+	//'../../jqueryui/themes/base/jquery.ui.all'
+	//'../../jqueryui/themes/base/jquery.ui.base',
+	'../../jqueryui/themes/base/jquery.ui.core',
+	'../../jqueryui/themes/base/jquery.ui.theme',
+	'../../jqueryui/uijmvc/fix_size'
+);
