@@ -4,3 +4,4 @@ docs
 *.diff
 *.patch
 .DS_Store
+.settings
