@@ -1,3 +1,1 @@
-steal(
-	'//jqueryui/ui/jquery.ui.position.js'
-);
+require( [ '/jqueryui/ui/jquery.ui.position.js' ] );
